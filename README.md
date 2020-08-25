@@ -7,7 +7,7 @@
 ### Expected Outcome
 • Idea is to use AI/ML to predict a cart abandonment ahead and
 provide ways to inject into the experience a promotion or strategy
-to help the cart conversion
+to help the cart conversion.
 • The only thing we DO NOT want is to throw discounts or offers to
 customers.
 • Models and Data to prove that the proposed solutions shall yield
